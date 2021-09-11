@@ -7,7 +7,6 @@
 * simple website
 * no set up required
 * easy to navigate through
-* format
 * 
 {no installations o requirements needed to use the website}
 ## Known Bugs
