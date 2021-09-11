@@ -29,5 +29,3 @@ for any querries, please contact :
 ### License
 ** MIT lincenses}*}
 Copyright (c) {2021} **
-
-** MIT lincenses
