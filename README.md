@@ -3,13 +3,13 @@
 #### By **{List of contributors}**
 ## author
 *DICKSON NJUGUNA
-## Setup/Installation Requirements
+## **Setup/Installation Requirements
 * simple website
 * no set up required
 * easy to navigate through
 * 
 {no installations o requirements needed to use the website}
-## Known Bugs
+## **Known Bugs
 {The website is bug free.collaboration or any issues are open to suggestions. }
 ## Technologies Used
 {Programming languages used 
