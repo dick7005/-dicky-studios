@@ -1,3 +1,9 @@
+
+body{
+    background-image: url(images/dark.jpeg);
+       background-size: cover;
+    background-repeat: no-repeat;
+}
 .first{
     background: url(images/delani.jpeg);
     width: 70%;
@@ -14,5 +20,34 @@
    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
    font-size: medium;
    margin: 100px auto
-
 }
+ 
+ .second{
+     background-color: wheat;
+     width: 75%;
+     height: 40vh;
+     margin: 100px auto;
+     background-repeat: no-repeat;
+     background-position: center;
+     text-align: center;
+ }
+ .third{
+    background: url(images/ofice.jpeg);
+    width: 70%;
+    height: 40vh;
+    margin: 100px auto;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;  
+    display: flex;
+    text-align: center;
+    font-size: 14px;
+ }
+ .services{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+    margin: 100px auto;
+    
+    
+
+ }
