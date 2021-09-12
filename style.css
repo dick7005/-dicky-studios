@@ -62,4 +62,27 @@ body{
  .do{
     margin: 100px auto;
  }
- 
+ .fifth{
+     background-color: white;
+     width: 79%;
+    height: 50vh;
+    margin: 100px auto;
+    background-repeat: no-repeat;  
+    display: flex;
+    font-size: 14px;
+
+ }
+.cp{
+    width: 297px;
+   height: 200px;
+  
+}
+.port{
+    background-color: white;
+    width: 89%;
+    height: 74vh;
+    margin: 100px auto;
+}
+.name{
+    margin: 100px auto;
+}
