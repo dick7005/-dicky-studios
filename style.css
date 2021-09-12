@@ -32,9 +32,9 @@ body{
      text-align: center;
  }
  .third{
-    background: url(images/ofice.jpeg);
+    background: url(images/s_image.jpg);
     width: 70%;
-    height: 40vh;
+    height: 50vh;
     margin: 100px auto;
     background-size: cover;
     background-position: center;
@@ -47,7 +47,19 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: medium;
     margin: 100px auto;
-    
-    
-
+        
  }
+ .forth{
+    background-color:white;
+    width: 70%;
+    height: 50vh;
+    margin: 100px auto;
+    background-repeat: no-repeat;  
+    display: flex;
+    text-align: center;
+    font-size: 14px;
+ }
+ .do{
+    margin: 100px auto;
+ }
+ 
