@@ -78,7 +78,7 @@ body{
   
 }
 .port{
-    background-color: white;
+    background-color:wheat;
     width: 89%;
     height: 74vh;
     margin: 100px auto;
@@ -86,3 +86,65 @@ body{
 .name{
     margin: 100px auto;
 }
+.sixth{
+
+    background: url(images/c_image.jpg);
+    width: 85%;
+    height: 80vh;
+    margin: 100px auto;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;  
+    display: flex;
+    text-align: center;
+    font-size: 14px;
+}
+.cont1{
+    margin-bottom: 25px;
+    background-color: transparent;
+
+}
+.cont1 > input {
+    width: 350px;
+    height: 32px;
+    background-color: transparent;
+    color: white;
+
+}
+.cont2{
+    color: white;
+    background-color: transparent;
+}
+.cont{
+    margin: 100px auto;
+}
+
+.what-we-do{
+    font-family: 'Quattrocento', serif;
+    text-align: center;
+    padding-top: 40px;
+    font-family: 'Gabriela', serif;
+  }
+  .what-we-do .headings{
+    padding-bottom: 38px;
+  }
+  #portfolio{
+     width: 75%; 
+     height:79vh ;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-left:18%;
+    margin-right: 16%; 
+    background-color: white;
+  }
+  .col-md-3 img{
+    max-width: 100%;
+    max-height: 100%;
+  }
+  .portfolio h2{
+    text-align: center;
+    padding-top:40px;
+    font-family: 'Gabriela', serif;
+    background-color: white;
+  }
