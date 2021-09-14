@@ -1,150 +1,135 @@
-
+h1{
+    text-align: center;
+    
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
 body{
-    background-color: whitesmoke;
-       background-size: cover;
+    background-image: url(images/dark.jpeg);
+}
+#welcome {
+    
+    text-align: center;
+    
+    font-size: px;
     background-repeat: no-repeat;
 }
-.first{
-    background: url(images/delani.jpeg);
-    width: 70%;
-    height: 80vh;
-    margin: 100px auto;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;  
-    display: flex;
-    text-align: center;
-    font-size: 14px;
-}
-.title{
-   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-   font-size: medium;
-   margin: 100px auto
-}
- 
- .second{
-     background-color: wheat;
-     width: 75%;
-     height: 40vh;
-     margin: 100px auto;
-     background-repeat: no-repeat;
-     background-position: center;
-     text-align: center;
- }
- .third{
-    background: url(images/s_image.jpg);
-    width: 70%;
-    height: 50vh;
-    margin: 100px auto;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;  
-    display: flex;
-    text-align: center;
-    font-size: 14px;
- }
- .services{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: medium;
-    margin: 100px auto;
-        
- }
- .forth{
-    background-color:white;
-    width: 80%;
-    height: 60vh;
-    margin: 100px auto;
-    background-repeat: no-repeat;  
-    display: flex;
-    text-align: center;
-    font-size: 14px;
- }
- .do{
-    margin: 100px auto;
- }
- .fifth{
-     background-color: white;
-     width: 79%;
-    height: 50vh;
-    margin: 100px auto;
-    background-repeat: no-repeat;  
-    display: flex;
-    font-size: 14px;
-
- }
-.cp{
-    width: 297px;
-   height: 200px;
-  
-}
-.port{
-    background-color:wheat;
-    width: 89%;
-    height: 74vh;
-    margin: 100px auto;
-}
-.name{
-    margin: 100px auto;
-}
-.sixth{
-
-    background: url(images/c_image.jpg);
-    width: 85%;
-    height: 80vh;
-    margin: 100px auto;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;  
-    display: flex;
-    text-align: center;
-    font-size: 14px;
-}
-.cont1{
-    margin-bottom: 25px;
-    background-color: transparent;
-
-}
-.cont1 > input {
-    width: 350px;
-    height: 32px;
-    background-color: transparent;
+#services-offered {
+    background-image: url(images/s_image.jpg);
+    height: 8cm;
+    padding-top: 90px;
     color: white;
+    font-size: 15px;
+    font-style: italic;
+}
+#contact {
+    background-image: url(images/c_image.jpg);
+    height: 12cm;
+    
+}
+#black {
+    background-image: url(images/work4.jpg);
+    color: orange;
+    
+}
+#ontariosecurity{
+    background-image: url(images/work3.jpg);
+    background-position: center;
+    columns: orange;
 
 }
-.cont2{
-    color: white;
-    background-color: transparent;
+#Pyramids{
+    background-image: url(images/work2.jpg);
+    color: orange;
 }
-.cont{
-    margin: 100px auto;
+#JimCarry{
+    background-image: url(images/work1.jpg);
+    color: orange;
+    
 }
-
-.what-we-do{
-    font-family: 'Quattrocento', serif;
+#NiceDay{
+    background-image: url(images/work5.jpg);
+    background-position: center;
+    color: orange;
+}
+#Calculator{
+    background-image: url(images/work6.jpg);
+    color: orange;
+}
+#burned{
+    background-image: url(images/work7.jpg);
+    background-position: center;
+    color: orange;
+}
+#Giraffe{
+    background-image: url(images/work8.jpg);
+    background-position: center;
+    color:green;
+}
+.portfolio{
+    background-color: coral;
     text-align: center;
-    padding-top: 40px;
-    font-family: 'Gabriela', serif;
-  }
-  .what-we-do .headings{
-    padding-bottom: 38px;
-  }
-  #portfolio{
-     width: 75%; 
-     height:79vh ;
-    display: flex;
-    flex-wrap: wrap;
+    width: 250px;
+    height: 250px;
+    font-size: 20px;
+    margin: auto;
+    margin-bottom: 20px;
+    
+    
+}
+#social{
+    align-items: center
+}
+.hidden{
+    display: none;
+    color: white;
+}
+
+#black p,
+#ontario p,
+#Pyramids p,
+#JimCarry p,
+#NiceDay p,
+#Calculator p,
+#burned p,
+#gr p {
+    display : none;
+}
+.dick{
+    font-size: x-small;
+    background-color: white;
+}
+.dell{
+    color: orange;
+}
+.form-label{
+    color: orange;
+}
+.col-sm-3 portfolio{
+    color: orange;
+}
+.container{
     align-items: center;
-    margin-left:18%;
-    margin-right: 16%; 
-    background-color: white;
-  }
-  .col-md-3 img{
-    max-width: 100%;
-    max-height: 100%;
-  }
-  .portfolio h2{
-    text-align: center;
-    padding-top:40px;
-    font-family: 'Gabriela', serif;
-    background-color: white;
-  }
+}
+.us{
+    color: orange;
+    margin-bottom: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.boxxx{
+    background-image: url(images/delani.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.white{
+    color: white;
+}
