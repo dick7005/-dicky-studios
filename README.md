@@ -2,7 +2,7 @@
 #### {dicky studios is a completly normal websites help in the marketing of the music industry and also promote the business by reaching to as many people as possible through the website}, {current version * 2021}
 ## author
 *DICKSON NJUGUNA
-## **Setup/Installation Requirements
+## **Setup properties
 * simple website
 * no set up required
 * easy to navigate through
